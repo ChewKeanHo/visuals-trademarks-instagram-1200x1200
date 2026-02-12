@@ -106,7 +106,7 @@ Please **ONLY USE** open source image editing software specifically:
 
 * **GIMP (https://gimp.org/)** - for their very amazing alternate format exports
   (e.g. `avif`, `webp`, `jpg`, `ico`, and `png`).
-* **Instagram (https://inkscape.org/)** - for vector graphics maintenances and
+* **Inkscape (https://inkscape.org/)** - for vector graphics maintenances and
   exporting SVG plain vector files.
 
 For directory organizations:
@@ -133,8 +133,8 @@ For directory organizations:
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
-* [Agreed Instagram License](.internals/terms-of-services/Instagram_License.pdf)
-* [Agreed Instagram Privacy Policy](.internals/privacy-policy/Instagram-Privacy-Policy.pdf)
+* [Agreed Inkscape License](.internals/terms-of-services/Inkscape_License.pdf)
+* [Agreed Inkscape Privacy Policy](.internals/privacy-policy/Inkscape-Privacy-Policy.pdf)
 
 This entire project is licensed under
 [Creative Commons Attribution-NoDerivatives 4.0 International License](LICENSE.txt).
